@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Farmeador de tetas",
   "bot-account": {
     "username": "YourBotUsername",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "SoulLinkForNoggas.aternos.me",
+    "port": 56365,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
